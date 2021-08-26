@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-export-import",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "insomnia-plugin-export-import",
     "main": "src/index.js",
     "author": "Dignat",
