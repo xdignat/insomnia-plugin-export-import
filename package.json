@@ -1,0 +1,26 @@
+{
+    "name": "insomnia-plugin-export-import",
+    "version": "1.0.0",
+    "description": "insomnia-plugin-export-import",
+    "main": "src/index.js",
+    "author": "Dignat",
+    "license": "MIT",
+    "insomnia": {
+        "name": "gitlab",
+        "images": {
+            "icon": "icon.svg"
+        },
+        "applications": {
+            "core": "*"
+        }
+    },
+    "keywords": [
+        "insomnia",
+        "export",
+        "import"
+    ],
+    "dependencies": {
+        "mkdirp": "^1.0.4",
+        "slugify": "^1.4.5"
+    }
+}
