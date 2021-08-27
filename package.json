@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-export-import",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Упрощённый экспорт и импорт в json и yaml",
     "main": "src/index.js",
     "author": "Dignat",
@@ -22,5 +22,6 @@
     "dependencies": {
         "mkdirp": "^1.0.4",
         "slugify": "^1.4.5"
-    }
+    },
+    "files": ["doc/*","src/*","icon.svg","LICENSE","README.md"]
 }
