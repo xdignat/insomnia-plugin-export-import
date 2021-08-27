@@ -1,12 +1,12 @@
 {
     "name": "insomnia-plugin-export-import",
-    "version": "1.0.1",
-    "description": "insomnia-plugin-export-import",
+    "version": "1.0.2",
+    "description": "Упрощённый экспорт и импорт в json и yaml",
     "main": "src/index.js",
     "author": "Dignat",
     "license": "MIT",
     "insomnia": {
-        "name": "gitlab",
+        "name": "export-import",
         "images": {
             "icon": "icon.svg"
         },
